@@ -67,4 +67,4 @@ def calculate_charge():
 	print(dataframe.to_string())
 	return dataframe
 
-df = calculate_charge()
+
